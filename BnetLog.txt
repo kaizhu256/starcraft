@@ -1,0 +1,14 @@
+6/21 04:18:59.703  Connecting to Battle.net...
+6/21 04:19:00.031  Trying to load ws2_32.dll
+6/21 04:19:00.031      querying gateway
+6/21 04:19:00.125      searching for the fastest server
+6/21 04:19:00.156      connected to server
+6/21 04:19:00.187  Connected to server 63.241.83.12
+6/21 04:19:00.187      Validating ID
+6/21 04:19:00.234      requesting latest version
+6/21 04:19:01.250  user version and cdkey passed as ok
+6/21 04:19:01.250  Get latest battle.net icons
+6/21 04:19:01.250  Returning ping data to server
+6/21 04:19:01.281      Get player profile
+6/21 04:19:06.609  Disconnecting from server
+6/21 04:19:06.609  Could not connect to Battle.net

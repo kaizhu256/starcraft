@@ -1,0 +1,48 @@
+Beginners Starcraft Modding Tutorial
+
+
+
+
+Basic Unit, Weapon and Upgrade Editing - Written by IceSkirt
+
+Beginners SC Modding Tutorial - A very basic tutorial for people wishing to make their own mods. In this tutorial you will learn how to change a units stats, weapon/s, graphics etc. You will also learn how to make upgrades go up to 0-255 instead of only 0-3.
+
+--------------------------------------------------------------------------------
+
+Tools used:
+
+* Arsenal 3
+* MPQDraft
+* WinMPQ
+* MPQ Compactor
+* These can be downloaded via Mod DB or Starcraft.org
+
+--------------------------------------------------------------------------------
+
+Step 1:
+After you have downloaded the tools above you should create a Starcraft Modding folder (for convenience save the tools above into this folder), you can call it whatever you like (mines SC Modding Home). In this folder create another folder. Call it First Mod. OK now open WinMPQ. Click on "File" located at the top left hand corner of the screen, then select "Open"in the dropdown box. When the Open browser comes up go into your Starcraft folder and open "Patch_rt.mpq" this folder contains much of the information that Starcraft uses. Some of the types of files it contains are ".dat", ".grp", ".wav" and ".tbl" just to name a few. The only ones your going to use now are the ".dat" files. Find arr\units.dat in the list of files and right click it. In the dropdown box that appears select extract and extract it into a folder you will remember.
+
+--------------------------------------------------------------------------------
+
+Step 2:
+Now for the actual modding. Open Arsenal 3. A screen should appear, click on "Starcraft" then go into "Unit Editor". On the left hand side of the screen there should be a black bar, in the black bar there's a list. Click on "Terran Units" in the list. Now a list of all the Terran Units should appear in the black bar. Click on "File" in the top left of the screen then click open, find the file you extracted with WinMPQ, arr\units.dat, and open it. Now click on "Terran Ghost" in the Units list. Here you can change the Ghost's Health, Weapon, decide whether it has shields or not, etc. We're gonna make the Ghost a really cool, super unit. Check the box next to where it says" Shields:". This'll make the Ghost have shields (just like the Protoss!!). Then change its Health to 100 and give it 5 armour. Now change its ground weapon from C-10 Canister Rifle to LongBolt Missile and its air weapon to Lockdown. This is all we're going to do for now. Click "File" then go to "Save As". Find your Starcraft Modding Folder, go into it, go into the First Mod folder, here make a new folder named exactly arr (nothing else will work), then save as Units.dat, OK.(Don't close Arsenal 3 yet.)
+
+--------------------------------------------------------------------------------
+
+Step 3:
+Go into WinMPQ again and extract arr\weapons.dat from Patch_rt.mpq into the folder you extracted arr\units.dat. Go into Arsenal 3, click "File" then "Exit". The screen that first appeared when you went into Arsenal 3 should come up. Click on "Weapon Editor", a screen a bit like the Unit Editor should come up. Open arr\weapons.dat. Click on "Terran Weapons" in the black bar. A list of all the Terran weapons will appear. Find LongBolt Missile and click on it. A screen of all the properties of the Longbolt Missile should come up beside the black bar. Where it says damage properties change "Amount:" to 15 (this changes the attack damage), and change "Cooldown:" to 2 (this changes the units cooldown time).Change the upgrade from Terran Ship Weapons to Terran Infantry Weapons. Under where it says "Attack Flags:" check the box labeled Ground (this will change LongBolt Missile so it can now attack ground units as well as air). Under where it says "Graphical Properties" change "Sprite:" from Gemini Missiles to EMP Shockwave. (This will change what the attack looks like.) Go to "File", then "Save As" and save it where you saved arr\units.dat after you had edited it but this time call it weapons.dat. (Again don't exit Arsenal 3)
+
+--------------------------------------------------------------------------------
+
+Step 4:
+Go into WinMPQ and extract arr\upgrades.dat out of Patch_rt.mpq into the folder where you extracted arr\units.dat and arr\weapons.dat. Go back into Arsenal 3, click "File then Exit". When the startup screen appears go into "Upgrade Editor". Click on "Terran Upgrades" in the black bar, then click on "Terran Infranty Armour". Underneath where it says "Base Costs" change "Time:" to 500 (this changes how long the upgrade takes to research), change "Minerals:" to 50 and "Gas:" to 50 (bit staight forward what that does). Under where it says "Factor Costs" change time:, minerals: and gas: to 0 (Factor Costs changes how much longer, more expensive an upgrade becomes each time its upgraded). Finally, under where it says "Upgrade Properties" change "repeats:" from 3 to 10 (this will make it so the Terran Infantry Armour upgrade can be upgraded 10 times instead of 3.) Repeat the process of editing Terran Infantry Armour with Terran Infantry Weapons. When you have done that go to "File, then "Save As" and save where you saved the other .dat files but call it upgrades.dat.
+
+--------------------------------------------------------------------------------
+
+Step 5:
+That was the modding part of the tutorial. Now we're going to turn your .dat files into an MPQ. It's very simple all you have do to is drag and drop the First Mod folder onto MPQ Compactor and it will compile it into an MPQ. An MPQ should appear in the file that contains MPQ Compactor. It should be called First Mod.
+
+--------------------------------------------------------------------------------
+
+Step 6:
+Now that we have our MPQ we need to turn it into an executable mod. Open MPQDraft. A small screen should appear. Click on Self Executing MPQ. A larger screen should now appear. Where it says Custom Name: type whatever you want your mod to be named. Where it says Input MPQ Filename: click Browse and find the MPQ you just created. When you find your MPQ click it and press Open. Where it says Output SEMPQ Executable Filename: click browse and locate where you want your executable mod to be, then name it, then click save. After doing that click Next. A new screen should appear. Under where it says "Programs:" there are a 4 different games by Blizzard. Click Starcraft. Now under where it says "Components:" Starcraft and the Starcraft Campaign Editor appear. Click on Stacraft then click "next". Another screen should appear, its about plug-ins. Ignore it and click "Finish". Your done!! Find your Executable Mod and click it to play!! (Make sure Stacraft CD is in drive.)

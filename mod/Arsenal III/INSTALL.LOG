@@ -1,0 +1,57 @@
+***  Installation Started 10/06/10 2:33  ***
+Title: Arsenal III Installation
+Source: C:\tmp\sc_arsenal_iii_setup.exe
+Made Dir: C:\Program Files\Camelot Systems
+Made Dir: C:\Program Files\Camelot Systems\Arsenal III
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Arsenal III
+RegDB Val: Arsenal III
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Arsenal III
+RegDB Val: C:\PROGRA~1\CAMELO~1\ARSENA~1\UNWISE.EXE C:\PROGRA~1\CAMELO~1\ARSENA~1\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\tileed.txt
+Made Dir: C:\Program Files\Camelot Systems\Arsenal III\rez
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\rez\w2ugrd.tbl
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\rez\w2Icons.tbl
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\rez\upgrades.dat
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\rez\unitdato.dat
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\rez\unitdata.dat
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\rez\stat_w2.tbl
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\rez\sprites.tbl
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\rez\sfxdata.tbl
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\rez\portdata.tbl
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\rez\mapdata.tbl
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\rez\images.tbl
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\rez\flingy.tbl
+File Copy: C:\WINDOWS\system32\Excal.dll
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\Arsenal3.exe
+Made Dir: C:\Program Files\Camelot Systems\Arsenal III\arr
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\arr\weapons.dat
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\arr\upgrades.dat
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\rez\stat_txt.tbl
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\arr\flingy.dat
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\arr\images.dat
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\arr\mapdata.dat
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\arr\orders.dat
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\arr\portdata.dat
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\arr\sfxdata.dat
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\arr\sprites.dat
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\arr\techdata.dat
+File Copy: C:\Program Files\Camelot Systems\Arsenal III\arr\units.dat
+Made Dir: C:\Documents and Settings\Administrator\「开始」菜单\程序\Camelot Systems
+Made Dir: C:\Documents and Settings\Administrator\「开始」菜单\程序\Camelot Systems\Arsenal III
+Shell Link: C:\Documents and Settings\Administrator\「开始」菜单\程序\Camelot Systems\Arsenal III\Arsenal III.lnk
+Shell Link: C:\Documents and Settings\Administrator\「开始」菜单\程序\Camelot Systems\Arsenal III\Tileset Editor Read Me.lnk
+INI New: Created INI
+INI File: C:\Program Files\Camelot Systems\Arsenal III\UNWISE.INI
+INI Sect: Settings
+INI Item: Text Font
+INI Val: Arial
+INI File: C:\Program Files\Camelot Systems\Arsenal III\UNWISE.INI
+INI Sect: Settings
+INI Item: No Background
+INI Val: 0
+User Rights: Admin

@@ -1,0 +1,151 @@
+
+scloader2b: no-cd BNET loader for all versions of Original StarCraft and BroodWar
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1) Extract scloader2b.exe to your StarCraft directory.
+
+2) Launch scloader2b.exe and play! With scloader2b you will be able to play single player
+   custom games and multiplayer games without CD in the drive, but there is no music, movies,
+   and campaigns. Of course you will be able to install these features from your StarCraft
+   and BroodWar CDs to your hard drive.
+
+
+scloader2b command-line parameters:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   usage: scloader2b [scloader2b_parameters] [starcraft_parameters]
+
+ * scloader2b_parameters:
+
+   -primarydir <dir>     Instructs scloader2b to start searching install.exe in the <dir> folder
+                         before all other possible locations.
+
+   -nocdcheck            Scloader2b won't search for the install.exe file in your CD drives.
+
+   -noscdir              StarCraft will not search your StarCraft installation directory and its
+                         subfolder called BW for the install.exe data file.
+
+   -noembedinstall       Keeps StarCraft from loading data from scloader2b itself instead of
+                         another install.exe file.
+
+   -mpq <mpq>            Load an MPQ mod into StarCraft or StarEdit. You can specify more than
+                         one -mpq parameter to load as many MPQ mod files as you want. The first
+                         specified MPQ file will have the highest priority. Do not use this
+                         parameter when you play on BNET.
+
+   -/+dll <dll>          Load a DLL into StarCraft or StarEdit. Use as many -/+dll parameters as
+                         you want. Use -dll to specify a startup DLL and use +dll for non-startup
+                         DLLs. Startup DLLs are loaded after the main thread reached the entrypoint
+                         of starcraft.exe, and nonstartups are loaded after sc created the main
+                         window and the directdraw objects and passed it to storm.dll.
+                         DLLs will be loaded in the same order as you specified them on the command
+                         line, but they will be unloaded in reverse order before StarCraft exits.
+                         It is logical that the startup DLLs will be loaded before all nonstartups,
+                         but the unloading will be done in reverse order.
+                         Don't use this parameter unless you know what you are doing.
+
+   -/+xmod <xmod>        Load an XMOD plugin into StarCraft. Use of an XMOD file is similar to the
+                         use of a simple DLL.
+
+   -nowarn               Don't show error message when StarCraft fails to load a DLL/MPQ file and
+                         continue loading StarCraft.
+                         This parameter won't disable error messages about non-existing or damaged
+                         DLL/MPQ files that were caught before we loaded StarCraft.
+
+   -staredit             Launch staredit.exe instead of starcraft.exe. This parameter is useful when
+                         you wanna load your dll and mpq files to staredit to build a map for your mod.
+                         You should use only the -mpq, -/+dll, -/+xmod, and -nowarn parameters with the
+                         -staredit switch, because all other parameters will be ignored.
+
+   -?, -help             Show a help window with brief description about these parameters.
+
+
+Notice:
+~~~~~~~
+ - The <dir>, <mpq>, and <dll> parameters can be full path names, for example:
+
+       \my_mpq_files\mpq1.mpq
+       c:\mods\mpq2.mpq
+
+ - Unless you specify a full path name, it is always relative to your StarCraft installation
+   directory:
+
+       my_mpq_files\mpq1.mpq           -> it means: sc_installdir\my_mpq_files\mpq1.mpq
+       x\                              -> means:    sc_installdir\x\
+
+
+ - How to use scloader2b on the command line:
+
+   scloader2b -mpq mod1.mpq -noscdir -mpq mod2.mpq
+
+   This will start StarCraft and load 2 MPQ mod files into it. Install exe won't be searched
+   in the StarCraft and StarCraft\BW folders (-noscdir parameter).
+   mod1.mpq will have higher priority than mod2.mpq, so if both MPQ archives contain 1-1 file
+   with the same name, StarCraft will it from mod1.mpq.
+   scloader2b.exe should always be in your StarCraft directory!!!
+
+
+Good to know:
+~~~~~~~~~~~~~
+ - You don't need the CDs and can play on BattleNET too if you installed Starcraft using a
+   valid BattleNet cd-key. Note that this loader isn't a BattleNet cd-key crack! CD key
+   authentication can't be passed when you log on BNET. Don't install StarCraft to your mate's
+   machine using your original sc cd-key, and don't copy your sc to his machine if you istalled
+   that game with your cd-key cause the key is encrypted into one of the StarCraft data files,
+   so they may steal it and one key can only be used only by one person on BNET at the same time!!!
+
+ - Where does StarCraft search for the install.exe file(s) using this loader when you start the
+   game or change form Original StarCraft to BroodWar or vice versa in the main menu???
+     1) The directory sepcified using the -primarydir parameter of scloader2b.
+        This step will skipped if you don't use the -primarydir parameter.
+        If no suitable install.exe found then...
+     2) Starcraft tries to load install.exe from the root directories of your CD-ROM drives.
+        The check of the CD drives can be skipped using the -nocdcheck parameter.
+     3) If install.exe is not found yet, StarCraft tries to load it from your StarCraft installation
+        directory (where starcraft.exe is located) and from a subdir called "BW" located in your
+        installation directory. You can keep scloader2b from searching these directories using
+        the -noscdir parameter.
+     4) StarCraft still did not find the proper install.exe, so it will load the data found in
+        scloader2b itself. You can avoid this using the -noembedinstall parameter. Once StarCraft
+        loaded the scloader2b-embedded data, the above locations are out of use until you restart
+        StarCraft.
+
+ - Notice:
+   ~~~~~~~
+     1) If you wanna play campaigns, listen to sc music, watch the movies during the game:
+        Insert a CD containing another (full) install.exe file before launching starcraft, then this
+        file will be loaded instead of the ripped, cause starcraft searches the cd-rom drives before
+        all other locations (except the directory specified with the -primarydir parameter).
+        You can also use the -primarydir parameter to load an install.exe file of your choice from
+        any directory on your machine. Full installation of starcraft and broodwar is also possible.
+        Just copy the install.exe file from the StarCraft CD into your StarCraft directory. If you
+        wanna full BroodWar installation then create a subfolder called BW in the StarCraft directory
+        and copy the install.exe from the BroodWar CD here. It isn't needed to make a full installation
+        of both StarCraft and BroodWar.
+
+     2) If you use the no-cd loader and the game runs properly without CD, but you are still unable to
+        connect to BNET then it isn't the failure of the loader. It's sure that you cant log on BNET
+        even you run the game without this prog, it may be the weakness of your internet connection
+        or something else... I can only recommend you to browse Blizzard's website for technical help.
+
+     3) After installing a new patch, the patcher will automatically launch starcraft.exe instead of
+        scloader2b.exe and you will get a popup window asking for the CD. Just close this window and
+        happily restart StarCraft with scloader2b.exe, cause it has very good chances to work with
+        future StarCraft patches. :)
+
+If you have problems with the loader feel free to mail me and send some details about the error.
+I can not repair errors when I know only that "It does not work for me...".
+
+
+A recent release of scloader2b contains a bug that prevents loading the internal install.exe data of
+scloader2b when you use it with some of the non-english versions of StarCraft. For example the
+French versions refused to load install.exe data from scloader2b. This means that you have to put an
+install.exe in your StarCraft folder if you use that buggy version of scloader2b for example with
+French StarCraft versions. The bug is fixed in this release.
+
+
+Good gaming! ^^
+
+Regards,
+XeN
+
+mail: xenomails|at|freemail|dot|hu
+June 2, 2007

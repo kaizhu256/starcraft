@@ -1,0 +1,374 @@
+0.   2019-04-09 00:59:19 -0500 1306232272 bytes  .
+25.  2019-04-09 00:53:37 -0500 606857006 bytes  StarCraft.mpq
+6.   2019-04-09 00:53:37 -0500 571847688 bytes  BroodWar.mpq
+26.  2019-04-09 00:53:37 -0500 65560119 bytes  StarDat.mpq
+4.   2019-04-09 00:53:37 -0500 23847431 bytes  BrooDat.mpq
+280. 2019-04-09 00:53:37 -0500  1674240 bytes  mod/datedit/DatEdit.exe
+195. 2019-04-09 00:53:37 -0500  1438442 bytes  maps/BroodWar/WebMaps/(4)Steal the Beacon.scm
+24.  2019-04-09 00:53:37 -0500  1220608 bytes  StarCraft.exe
+13.  2019-04-09 00:53:37 -0500  1086719 bytes  Patch_rt.mpq
+28.  2019-04-09 00:53:37 -0500  1016320 bytes  StarEdit.exe
+351. 2019-04-09 00:53:37 -0500   721168 bytes  mod/winmpq/VB40032.DLL
+249. 2019-04-09 00:53:37 -0500   597504 bytes  mod/Arsenal III/Arsenal3.exe
+240. 2019-04-09 00:53:37 -0500   572824 bytes  maps/scenario/(2)Wakka Wakka.scm
+32.  2019-04-09 00:53:37 -0500   557310 bytes  battle.snp
+361. 2019-04-09 00:53:37 -0500   460100 bytes  save/blakrain/001.sng
+359. 2019-04-09 00:53:37 -0500   452035 bytes  save/blakrain/000.sng
+34.  2019-04-09 00:53:37 -0500   417792 bytes  bnupdate.exe
+372. 2019-04-09 00:53:37 -0500   409600 bytes  storm.dll
+248. 2019-04-09 00:53:37 -0500   408484 bytes  maps/scenario/(8)StarCraft Fortress.scm
+247. 2019-04-09 00:53:37 -0500   386890 bytes  maps/scenario/(5)Race of Death.scm
+353. 2019-04-09 00:53:37 -0500   355328 bytes  mod/winmpq/WinMPQ.exe
+238. 2019-04-09 00:53:37 -0500   338052 bytes  maps/scenario/(2)Pro Bowl.scm
+16.  2019-04-09 00:53:37 -0500   315392 bytes  Riched20.dll
+363. 2019-04-09 00:53:37 -0500   288474 bytes  save/blakrain/002.sng
+364. 2019-04-09 00:53:37 -0500   288309 bytes  save/blakrain/002.snx
+366. 2019-04-09 00:53:37 -0500   287716 bytes  save/blakrain/003.snx
+362. 2019-04-09 00:53:37 -0500   283466 bytes  save/blakrain/001.snx
+365. 2019-04-09 00:53:37 -0500   281553 bytes  save/blakrain/003.sng
+168. 2019-04-09 00:53:37 -0500   273619 bytes  maps/BroodWar/(8)Primeval Isles.scx
+148. 2019-04-09 00:53:37 -0500   270584 bytes  maps/BroodWar/(6)Cauldron.scx
+167. 2019-04-09 00:53:37 -0500   270229 bytes  maps/BroodWar/(8)Octopus.scx
+367. 2019-04-09 00:53:37 -0500   268400 bytes  save/blakrain/004.snx
+360. 2019-04-09 00:53:37 -0500   267299 bytes  save/blakrain/000.snx
+78.  2019-04-09 00:53:37 -0500   256255 bytes  maps/(8)River Runs Through It.scm
+212. 2019-04-09 00:53:37 -0500   255995 bytes  maps/BroodWar/WebMaps/(8)Expedition.scm
+75.  2019-04-09 00:53:37 -0500   250428 bytes  maps/(8)Killing Fields.scm
+179. 2019-04-09 00:53:37 -0500   248467 bytes  maps/BroodWar/Allied/(8)Crystal Castles.scm
+236. 2019-04-09 00:53:37 -0500   236789 bytes  maps/oldladder/(8)Green Valleys.scm
+315. 2019-04-09 00:53:37 -0500   230008 bytes  mod/datedit/Default/cmdicons.grp
+69.  2019-04-09 00:53:37 -0500   219047 bytes  maps/(7)Continental Divide.scm
+189. 2019-04-09 00:53:37 -0500   218292 bytes  maps/BroodWar/WebMaps/(2)Zerg Soccer.scm
+165. 2019-04-09 00:53:37 -0500   213977 bytes  maps/BroodWar/(8)Frozen Sea.scx
+74.  2019-04-09 00:53:37 -0500   212178 bytes  maps/(8)Jungle Rumble.scm
+350. 2019-04-09 00:53:37 -0500   206825 bytes  mod/winmpq/Starcraft listfile.txt
+221. 2019-04-09 00:53:37 -0500   205452 bytes  maps/campaign/(1)Enslavers03b.scm
+163. 2019-04-09 00:53:37 -0500   203720 bytes  maps/BroodWar/(7)Nightshade.scx
+349. 2019-04-09 00:53:37 -0500   192512 bytes  mod/winmpq/SFmpq.dll
+344. 2019-04-09 00:53:37 -0500   192512 bytes  mod/datedit/SFmpq.dll
+243. 2019-04-09 00:53:37 -0500   186902 bytes  maps/scenario/(4)Old Faithful.scm
+245. 2019-04-09 00:53:37 -0500   185063 bytes  maps/scenario/(4)Zergling Round-Up.scm
+197. 2019-04-09 00:53:37 -0500   181448 bytes  maps/BroodWar/WebMaps/(4)Warp Gates.scm
+29.  2019-04-09 00:53:37 -0500   176681 bytes  StarEdit.hlp
+150. 2019-04-09 00:53:37 -0500   171387 bytes  maps/BroodWar/(6)Crash Sites.scx
+192. 2019-04-09 00:53:37 -0500   166376 bytes  maps/BroodWar/WebMaps/(4)Crossroads.scm
+215. 2019-04-09 00:53:37 -0500   162878 bytes  maps/BroodWar/WebMaps/(8)Labyrinth.scm
+115. 2019-04-09 00:53:37 -0500   161616 bytes  maps/BroodWar/(4)Jungle Siege.scm
+186. 2019-04-09 00:53:37 -0500   159446 bytes  maps/BroodWar/Ladder/(6)Medusa.scx
+156. 2019-04-09 00:53:37 -0500   159304 bytes  maps/BroodWar/(6)Sapphire Isles.scx
+101. 2019-04-09 00:53:37 -0500   156662 bytes  maps/BroodWar/(4)Arctic Station.scx
+162. 2019-04-09 00:53:37 -0500   156553 bytes  maps/BroodWar/(7)Broken Steppes.scm
+160. 2019-04-09 00:53:37 -0500   155360 bytes  maps/BroodWar/(6)Valley of Re.scx
+218. 2019-04-09 00:53:37 -0500   154754 bytes  maps/campaign/(1)Enslavers02a.scm
+65.  2019-04-09 00:53:37 -0500   153594 bytes  maps/(5)Sherwood Forest.scm
+178. 2019-04-09 00:53:37 -0500   153086 bytes  maps/BroodWar/Allied/(8)Border Dispute.scm
+213. 2019-04-09 00:53:37 -0500   152391 bytes  maps/BroodWar/WebMaps/(8)Friends98.scm
+143. 2019-04-09 00:53:37 -0500   150705 bytes  maps/BroodWar/(5)Twilight Star.scx
+144. 2019-04-09 00:53:37 -0500   149868 bytes  maps/BroodWar/(6)Across the Cape.scm
+251. 2019-04-09 00:53:37 -0500   148480 bytes  mod/Arsenal III/UNWISE.EXE
+169. 2019-04-09 00:53:37 -0500   148477 bytes  maps/BroodWar/(8)Theatre of War.scm
+227. 2019-04-09 00:53:37 -0500   148388 bytes  maps/ladder/(6)Acropolis.scm
+73.  2019-04-09 00:53:37 -0500   148055 bytes  maps/(8)Homeworld.scm
+161. 2019-04-09 00:53:37 -0500   146977 bytes  maps/BroodWar/(7)Black Lotus.scx
+170. 2019-04-09 00:53:37 -0500   145217 bytes  maps/BroodWar/(8)Tribes.scm
+171. 2019-04-09 00:53:37 -0500   144944 bytes  maps/BroodWar/(8)Wheel of war.scm
+193. 2019-04-09 00:53:37 -0500   142368 bytes  maps/BroodWar/WebMaps/(4)Inferno.scm
+117. 2019-04-09 00:53:37 -0500   141984 bytes  maps/BroodWar/(4)Lake Shore.scm
+154. 2019-04-09 00:53:37 -0500   141228 bytes  maps/BroodWar/(6)Hypothermia.scx
+166. 2019-04-09 00:53:37 -0500   140551 bytes  maps/BroodWar/(8)Hellfire.scm
+200. 2019-04-09 00:53:37 -0500   139625 bytes  maps/BroodWar/WebMaps/(6)Blast Furnace.scm
+209. 2019-04-09 00:53:37 -0500   138966 bytes  maps/BroodWar/WebMaps/(8)Elderlands.scm
+214. 2019-04-09 00:53:37 -0500   134669 bytes  maps/BroodWar/WebMaps/(8)Garden of Aiur.scm
+180. 2019-04-09 00:53:37 -0500   134174 bytes  maps/BroodWar/Allied/(8)Double Diamond.scm
+72.  2019-04-09 00:53:37 -0500   131848 bytes  maps/(8)Char Magma.scm
+216. 2019-04-09 00:53:37 -0500   130607 bytes  maps/BroodWar/WebMaps/(8)Turbo.scm
+206. 2019-04-09 00:53:37 -0500   130413 bytes  maps/BroodWar/WebMaps/(8)Aurora.scm
+201. 2019-04-09 00:53:37 -0500   129687 bytes  maps/BroodWar/WebMaps/(6)BunkerCommand.scm
+370. 2019-04-09 00:53:37 -0500   127767 bytes  standard.snp
+220. 2019-04-09 00:53:37 -0500   126001 bytes  maps/campaign/(1)Enslavers03a.scm
+177. 2019-04-09 00:53:37 -0500   124891 bytes  maps/BroodWar/Allied/(8)Allied Fortress.scm
+228. 2019-04-09 00:53:37 -0500   124334 bytes  maps/ladder/(6)Polaris Prime.scm
+135. 2019-04-09 00:53:37 -0500   124215 bytes  maps/BroodWar/(4)Spring Thaw.scx
+175. 2019-04-09 00:53:37 -0500   123588 bytes  maps/BroodWar/Allied/(6)Razor Thicket.scm
+181. 2019-04-09 00:53:37 -0500   122356 bytes  maps/BroodWar/Allied/(8)Friends in Space.scm
+152. 2019-04-09 00:53:37 -0500   122162 bytes  maps/BroodWar/(6)Flooded Plains.scx
+79.  2019-04-09 00:53:37 -0500   118693 bytes  maps/(8)Station Unrest.scm
+157. 2019-04-09 00:53:37 -0500   116912 bytes  maps/BroodWar/(6)Sirocco.scx
+164. 2019-04-09 00:53:37 -0500   116643 bytes  maps/BroodWar/(8)Dark Continent.scx
+184. 2019-04-09 00:53:37 -0500   115950 bytes  maps/BroodWar/Ladder/(4)Forsaken Valley.scx
+68.  2019-04-09 00:53:37 -0500   111352 bytes  maps/(6)New Gettysburg.scm
+199. 2019-04-09 00:53:37 -0500   110656 bytes  maps/BroodWar/WebMaps/(5)Typhoon.scm
+196. 2019-04-09 00:53:37 -0500   107318 bytes  maps/BroodWar/WebMaps/(4)The Highway.scm
+127. 2019-04-09 00:53:37 -0500   106475 bytes  maps/BroodWar/(4)River Lethe.scx
+71.  2019-04-09 00:53:37 -0500   105932 bytes  maps/(8)Bridge to Bridge '98.scm
+70.  2019-04-09 00:53:37 -0500   105932 bytes  maps/(7)River War.scm
+210. 2019-04-09 00:53:37 -0500   104525 bytes  maps/BroodWar/WebMaps/(8)Enigma.scm
+111. 2019-04-09 00:53:37 -0500   104431 bytes  maps/BroodWar/(4)Gladiator Pits.scm
+207. 2019-04-09 00:53:37 -0500   103553 bytes  maps/BroodWar/WebMaps/(8)Backwoods.scm
+62.  2019-04-09 00:53:37 -0500   101978 bytes  maps/(5)Diablo.scm
+158. 2019-04-09 00:53:37 -0500    99296 bytes  maps/BroodWar/(6)Tale of Two Cities.scm
+23.  2019-04-09 00:53:37 -0500    95232 bytes  Smackw32.dll
+246. 2019-04-09 00:53:37 -0500    93473 bytes  maps/scenario/(4)Zoo Keeper.scm
+9.   2019-04-09 00:53:37 -0500    92672 bytes  EditLocal.dll
+10.  2019-04-09 00:53:37 -0500    92375 bytes  License.html
+204. 2019-04-09 00:53:37 -0500    91677 bytes  maps/BroodWar/WebMaps/(6)Ghost Town.scm
+128. 2019-04-09 00:53:37 -0500    91311 bytes  maps/BroodWar/(4)Road to Nowhere.scm
+40.  2019-04-09 00:53:37 -0500    90426 bytes  maps/(2)River Crossing.scm
+112. 2019-04-09 00:53:37 -0500    90065 bytes  maps/BroodWar/(4)Greener Pastures.scx
+109. 2019-04-09 00:53:37 -0500    88551 bytes  maps/BroodWar/(4)Eye of the Storm.scx
+172. 2019-04-09 00:53:37 -0500    87790 bytes  maps/BroodWar/Allied/(4)Highland Denizens.scm
+94.  2019-04-09 00:53:37 -0500    87665 bytes  maps/BroodWar/(3)Ice Mountain.scx
+54.  2019-04-09 00:53:37 -0500    87647 bytes  maps/(4)Dark Star.scm
+141. 2019-04-09 00:53:37 -0500    86687 bytes  maps/BroodWar/(5)Rosewood.scm
+219. 2019-04-09 00:53:37 -0500    86570 bytes  maps/campaign/(1)Enslavers02b.scm
+224. 2019-04-09 00:53:37 -0500    86345 bytes  maps/ladder/(4)Lost Temple.scm
+159. 2019-04-09 00:53:37 -0500    85960 bytes  maps/BroodWar/(6)Thin Ice.scx
+174. 2019-04-09 00:53:37 -0500    85365 bytes  maps/BroodWar/Allied/(6)Grand Canyon.scm
+368. 2019-04-09 00:53:37 -0500    84930 bytes  scloader2b.exe
+106. 2019-04-09 00:53:37 -0500    84834 bytes  maps/BroodWar/(4)Desolation.scx
+131. 2019-04-09 00:53:37 -0500    84709 bytes  maps/BroodWar/(4)Shadowlands.scx
+119. 2019-04-09 00:53:37 -0500    84654 bytes  maps/BroodWar/(4)Mausoleum.scx
+225. 2019-04-09 00:53:37 -0500    83906 bytes  maps/ladder/(4)Proving Grounds.scm
+116. 2019-04-09 00:53:37 -0500    83866 bytes  maps/BroodWar/(4)Kakaru Keys.scx
+113. 2019-04-09 00:53:37 -0500    83026 bytes  maps/BroodWar/(4)Heartwood.scm
+122. 2019-04-09 00:53:37 -0500    82631 bytes  maps/BroodWar/(4)No Way Out.scm
+205. 2019-04-09 00:53:37 -0500    82400 bytes  maps/BroodWar/WebMaps/(6)Legacy.scm
+190. 2019-04-09 00:53:37 -0500    82360 bytes  maps/BroodWar/WebMaps/(4)Brushfire.scm
+187. 2019-04-09 00:53:37 -0500    82261 bytes  maps/BroodWar/Ladder/(6)Winter Conquest.scx
+139. 2019-04-09 00:53:37 -0500    82258 bytes  maps/BroodWar/(5)Ebon Lakes.scx
+96.  2019-04-09 00:53:37 -0500    82067 bytes  maps/BroodWar/(3)Stepping Stones.scm
+130. 2019-04-09 00:53:37 -0500    82056 bytes  maps/BroodWar/(4)Scorched Earth.scx
+53.  2019-04-09 00:53:37 -0500    82048 bytes  maps/(4)Dark Crystal.scm
+33.  2019-04-09 00:53:37 -0500    82035 bytes  bncache.dat
+126. 2019-04-09 00:53:37 -0500    81880 bytes  maps/BroodWar/(4)Red Canyons.scm
+125. 2019-04-09 00:53:37 -0500    81846 bytes  maps/BroodWar/(4)Ramparts.scm
+155. 2019-04-09 00:53:37 -0500    81243 bytes  maps/BroodWar/(6)River of Light.scm
+129. 2019-04-09 00:53:37 -0500    80987 bytes  maps/BroodWar/(4)Sanctuary.scx
+110. 2019-04-09 00:53:37 -0500    80697 bytes  maps/BroodWar/(4)Frenzy.scm
+41.  2019-04-09 00:53:37 -0500    80280 bytes  maps/(2)Road War.scm
+226. 2019-04-09 00:53:37 -0500    80279 bytes  maps/ladder/(4)Rivalry.scm
+90.  2019-04-09 00:53:37 -0500    80050 bytes  maps/BroodWar/(2)Isolation.scx
+55.  2019-04-09 00:53:37 -0500    79826 bytes  maps/(4)Lost Civilization.scm
+140. 2019-04-09 00:53:37 -0500    79281 bytes  maps/BroodWar/(5)Lake of Fire.scm
+100. 2019-04-09 00:53:37 -0500    79150 bytes  maps/BroodWar/(4)Archipelago.scm
+104. 2019-04-09 00:53:37 -0500    79131 bytes  maps/BroodWar/(4)Crescent Moon.scx
+233. 2019-04-09 00:53:37 -0500    78675 bytes  maps/oldladder/(4)Bone Canyon.scm
+145. 2019-04-09 00:53:37 -0500    77998 bytes  maps/BroodWar/(6)Aftershock.scm
+99.  2019-04-09 00:53:37 -0500    76644 bytes  maps/BroodWar/(3)Triskelion.scx
+67.  2019-04-09 00:53:37 -0500    76234 bytes  maps/(6)Hidden Shrine.scm
+244. 2019-04-09 00:53:37 -0500    76142 bytes  maps/scenario/(4)Steal the Bacon.scm
+198. 2019-04-09 00:53:37 -0500    75979 bytes  maps/BroodWar/WebMaps/(5)Predators.scm
+138. 2019-04-09 00:53:37 -0500    75879 bytes  maps/BroodWar/(4)Waypoint Junction.scm
+239. 2019-04-09 00:53:37 -0500    75443 bytes  maps/scenario/(2)Twilight Struggle.scx
+60.  2019-04-09 00:53:37 -0500    75182 bytes  maps/(4)Ruins of the Ancients.scm
+173. 2019-04-09 00:53:37 -0500    74954 bytes  maps/BroodWar/Allied/(4)The Gardens.scm
+82.  2019-04-09 00:53:37 -0500    74874 bytes  maps/BroodWar/(2)Baby Steps.scm
+66.  2019-04-09 00:53:37 -0500    74791 bytes  maps/(6)Ground Zero.scm
+64.  2019-04-09 00:53:37 -0500    74110 bytes  maps/(5)Jeweled River.scm
+242. 2019-04-09 00:53:37 -0500    73453 bytes  maps/scenario/(4)King of the Hill.scm
+237. 2019-04-09 00:53:37 -0500    73399 bytes  maps/replays/LastReplay.rep
+222. 2019-04-09 00:53:37 -0500    73164 bytes  maps/ladder/(4)Ashrigo.scm
+217. 2019-04-09 00:53:37 -0500    73162 bytes  maps/campaign/(1)Enslavers01.scm
+120. 2019-04-09 00:53:37 -0500    72746 bytes  maps/BroodWar/(4)Molten Playground.scm
+208. 2019-04-09 00:53:37 -0500    72631 bytes  maps/BroodWar/WebMaps/(8)Big Game Hunters.scm
+48.  2019-04-09 00:53:37 -0500    72018 bytes  maps/(3)Triumvirate.scm
+80.  2019-04-09 00:53:37 -0500    71818 bytes  maps/(8)The Hunters.scm
+108. 2019-04-09 00:53:37 -0500    71696 bytes  maps/BroodWar/(4)Entanglement.scm
+51.  2019-04-09 00:53:37 -0500    71617 bytes  maps/(4)Bridge Too Near.scm
+230. 2019-04-09 00:53:37 -0500    71367 bytes  maps/oldladder/(2)Gauntlet.scm
+132. 2019-04-09 00:53:37 -0500    71203 bytes  maps/BroodWar/(4)Shroud Platform.scm
+147. 2019-04-09 00:53:37 -0500    71003 bytes  maps/BroodWar/(6)Azure Plains.scx
+133. 2019-04-09 00:53:37 -0500    70781 bytes  maps/BroodWar/(4)Space Atoll.scm
+107. 2019-04-09 00:53:37 -0500    70773 bytes  maps/BroodWar/(4)Dust Bowl.scx
+137. 2019-04-09 00:53:37 -0500    70546 bytes  maps/BroodWar/(4)Water's Edge.scm
+136. 2019-04-09 00:53:37 -0500    70546 bytes  maps/BroodWar/(4)Wasteland.scx
+121. 2019-04-09 00:53:37 -0500    70182 bytes  maps/BroodWar/(4)Nightfall.scx
+114. 2019-04-09 00:53:37 -0500    70064 bytes  maps/BroodWar/(4)Hot Zone.scx
+134. 2019-04-09 00:53:37 -0500    70048 bytes  maps/BroodWar/(4)Space Debris.scm
+211. 2019-04-09 00:53:37 -0500    69828 bytes  maps/BroodWar/WebMaps/(8)Eruption.scm
+234. 2019-04-09 00:53:37 -0500    69473 bytes  maps/oldladder/(4)Crusader.scm
+185. 2019-04-09 00:53:37 -0500    69437 bytes  maps/BroodWar/Ladder/(4)Snowbound.scx
+84.  2019-04-09 00:53:37 -0500    69279 bytes  maps/BroodWar/(2)Breaking Point.scx
+77.  2019-04-09 00:53:37 -0500    68976 bytes  maps/(8)Plains of Snow '98.scm
+76.  2019-04-09 00:53:37 -0500    68976 bytes  maps/(8)Orbital Death.scm
+194. 2019-04-09 00:53:37 -0500    68940 bytes  maps/BroodWar/WebMaps/(4)NovaStation.scm
+183. 2019-04-09 00:53:37 -0500    68867 bytes  maps/BroodWar/Ladder/(2)Showdown.scx
+49.  2019-04-09 00:53:37 -0500    68664 bytes  maps/(4)Alpha Draconis.scm
+203. 2019-04-09 00:53:37 -0500    68392 bytes  maps/BroodWar/WebMaps/(6)Divided Factions.scm
+37.  2019-04-09 00:53:37 -0500    68376 bytes  maps/(2)Bottleneck.scm
+235. 2019-04-09 00:53:37 -0500    68307 bytes  maps/oldladder/(4)Remote Outpost.scm
+59.  2019-04-09 00:53:37 -0500    67709 bytes  maps/(4)Power Lines.scm
+231. 2019-04-09 00:53:37 -0500    67405 bytes  maps/oldladder/(2)River Styx.scm
+223. 2019-04-09 00:53:37 -0500    67334 bytes  maps/ladder/(4)Dire Straits.scm
+149. 2019-04-09 00:53:37 -0500    67271 bytes  maps/BroodWar/(6)Close Encounters.scx
+88.  2019-04-09 00:53:37 -0500    66847 bytes  maps/BroodWar/(2)Full Circle.scm
+123. 2019-04-09 00:53:37 -0500    66786 bytes  maps/BroodWar/(4)Orbital Gully.scm
+229. 2019-04-09 00:53:37 -0500    66762 bytes  maps/oldladder/(2)Discovery.scm
+61.  2019-04-09 00:53:37 -0500    66633 bytes  maps/(4)Tarsonis Orbital.scm
+52.  2019-04-09 00:53:37 -0500    66587 bytes  maps/(4)Cyclone.scm
+103. 2019-04-09 00:53:37 -0500    65849 bytes  maps/BroodWar/(4)Caldera.scm
+182. 2019-04-09 00:53:37 -0500    65736 bytes  maps/BroodWar/Ladder/(2)Fading Realm.scx
+22.  2019-04-09 00:53:37 -0500    65536 bytes  SEditPTB.loc
+21.  2019-04-09 00:53:37 -0500    65536 bytes  SEditITA.loc
+20.  2019-04-09 00:53:37 -0500    65536 bytes  SEditFRA.loc
+19.  2019-04-09 00:53:37 -0500    65536 bytes  SEditESP.loc
+18.  2019-04-09 00:53:37 -0500    65536 bytes  SEditENU.loc
+17.  2019-04-09 00:53:37 -0500    65536 bytes  SEditDEU.loc
+57.  2019-04-09 00:53:37 -0500    64299 bytes  maps/(4)Opposing City States '98.scm
+56.  2019-04-09 00:53:37 -0500    64299 bytes  maps/(4)Nightmare Station.scm
+124. 2019-04-09 00:53:37 -0500    64224 bytes  maps/BroodWar/(4)Path of Sorrow.scx
+63.  2019-04-09 00:53:37 -0500    64085 bytes  maps/(5)Island Hop.scm
+202. 2019-04-09 00:53:37 -0500    61587 bytes  maps/BroodWar/WebMaps/(6)Chain Lightning.scm
+345. 2019-04-09 00:53:37 -0500    61440 bytes  mod/datedit/grpapi.dll
+142. 2019-04-09 00:53:37 -0500    61390 bytes  maps/BroodWar/(5)Sandstorm.scx
+93.  2019-04-09 00:53:37 -0500    61377 bytes  maps/BroodWar/(2)Twisted Fate.scx
+191. 2019-04-09 00:53:37 -0500    61353 bytes  maps/BroodWar/WebMaps/(4)Catwalk Alley.scm
+46.  2019-04-09 00:53:37 -0500    60909 bytes  maps/(3)Meltdown.scm
+87.  2019-04-09 00:53:37 -0500    60411 bytes  maps/BroodWar/(2)Fire Walker.scm
+86.  2019-04-09 00:53:37 -0500    59170 bytes  maps/BroodWar/(2)Double Jeopardy.scm
+81.  2019-04-09 00:53:37 -0500    58161 bytes  maps/BroodWar/(2)Astral Balance.scm
+232. 2019-04-09 00:53:37 -0500    57596 bytes  maps/oldladder/(2)Solar Station.scm
+105. 2019-04-09 00:53:37 -0500    57531 bytes  maps/BroodWar/(4)Cross the Line.scx
+83.  2019-04-09 00:53:37 -0500    56775 bytes  maps/BroodWar/(2)Binary Burghs.scx
+98.  2019-04-09 00:53:37 -0500    56366 bytes  maps/BroodWar/(3)Triad.scm
+39.  2019-04-09 00:53:37 -0500    55557 bytes  maps/(2)Challenger.scm
+188. 2019-04-09 00:53:37 -0500    55234 bytes  maps/BroodWar/WebMaps/(2)Jacobs Ladder.scm
+102. 2019-04-09 00:53:37 -0500    54845 bytes  maps/BroodWar/(4)Boxed In.scm
+118. 2019-04-09 00:53:37 -0500    52608 bytes  maps/BroodWar/(4)Landslide.scm
+47.  2019-04-09 00:53:37 -0500    52243 bytes  maps/(3)Three Kingdoms.scm
+12.  2019-04-09 00:53:37 -0500    52224 bytes  Local.dll
+45.  2019-04-09 00:53:37 -0500    52173 bytes  maps/(3)Holy Ground.scm
+176. 2019-04-09 00:53:37 -0500    51909 bytes  maps/BroodWar/Allied/(6)Triple Team.scm
+146. 2019-04-09 00:53:37 -0500    51633 bytes  maps/BroodWar/(6)Avalanche.scx
+95.  2019-04-09 00:53:37 -0500    49915 bytes  maps/BroodWar/(3)Overlook.scm
+89.  2019-04-09 00:53:37 -0500    48544 bytes  maps/BroodWar/(2)Ice Floes.scx
+153. 2019-04-09 00:53:37 -0500    48287 bytes  maps/BroodWar/(6)Funeral Pyre.scm
+58.  2019-04-09 00:53:37 -0500    48195 bytes  maps/(4)Orbital Relay.scm
+38.  2019-04-09 00:53:37 -0500    47800 bytes  maps/(2)Boxer.scm
+44.  2019-04-09 00:53:37 -0500    47553 bytes  maps/(2)Volcanis.scm
+151. 2019-04-09 00:53:37 -0500    47353 bytes  maps/BroodWar/(6)Crazy Critters.scm
+92.  2019-04-09 00:53:37 -0500    46514 bytes  maps/BroodWar/(2)Switchback.scm
+241. 2019-04-09 00:53:37 -0500    44693 bytes  maps/scenario/(3)Defenders of the Galaxy.scm
+97.  2019-04-09 00:53:37 -0500    44010 bytes  maps/BroodWar/(3)Trench wars.scx
+327. 2019-04-09 00:53:37 -0500    40398 bytes  mod/datedit/Default/stat_txt.tbl
+270. 2019-04-09 00:53:37 -0500    40290 bytes  mod/Arsenal III/rez/stat_txt.tbl
+291. 2019-04-09 00:53:37 -0500    39929 bytes  mod/datedit/Data/Hints.txt
+317. 2019-04-09 00:53:37 -0500    37962 bytes  mod/datedit/Default/images.dat
+254. 2019-04-09 00:53:37 -0500    37962 bytes  mod/Arsenal III/arr/images.dat
+358. 2019-04-09 00:53:37 -0500    35902 bytes  patch.txt
+91.  2019-04-09 00:53:37 -0500    35887 bytes  maps/BroodWar/(2)Midnight Lagoon.scx
+85.  2019-04-09 00:53:37 -0500    34505 bytes  maps/BroodWar/(2)Crystallis.scm
+42.  2019-04-09 00:53:37 -0500    32817 bytes  maps/(2)Space Madness.scm
+15.  2019-04-09 00:53:37 -0500    32780 bytes  Readme.hlp
+43.  2019-04-09 00:53:37 -0500    32601 bytes  maps/(2)The Small Divide.scm
+268. 2019-04-09 00:53:37 -0500    32144 bytes  mod/Arsenal III/rez/sfxdata.tbl
+325. 2019-04-09 00:53:37 -0500    31985 bytes  mod/datedit/Default/sfxdata.tbl
+304. 2019-04-09 00:53:37 -0500    31380 bytes  mod/datedit/Data/Sfxdata.txt
+50.  2019-04-09 00:53:37 -0500    31048 bytes  maps/(4)Blood Bath.scm
+5.   2019-04-09 00:53:37 -0500    27648 bytes  BroodUnits.doc
+357. 2019-04-09 00:53:37 -0500    26659 bytes  mod/wmode.xmod
+354. 2019-04-09 00:53:37 -0500    25852 bytes  mod/winmpq/WinMPQ.rtf
+318. 2019-04-09 00:53:37 -0500    24009 bytes  mod/datedit/Default/images.tbl
+348. 2019-04-09 00:53:37 -0500    22817 bytes  mod/units0.mpq
+347. 2019-04-09 00:53:37 -0500    22817 bytes  mod/units.mpq
+329. 2019-04-09 00:53:37 -0500    19876 bytes  mod/datedit/Default/units.dat
+278. 2019-04-09 00:53:37 -0500    19876 bytes  mod/arr/units.dat
+261. 2019-04-09 00:53:37 -0500    19876 bytes  mod/Arsenal III/arr/units.dat
+293. 2019-04-09 00:53:37 -0500    18927 bytes  mod/datedit/Data/Images.txt
+265. 2019-04-09 00:53:37 -0500    15447 bytes  mod/Arsenal III/rez/images.tbl
+279. 2019-04-09 00:53:37 -0500    12599 bytes  mod/datedit/DatEd 1.5 Release notes.txt
+324. 2019-04-09 00:53:37 -0500    10296 bytes  mod/datedit/Default/sfxdata.dat
+258. 2019-04-09 00:53:37 -0500    10296 bytes  mod/Arsenal III/arr/sfxdata.dat
+271. 2019-04-09 00:53:37 -0500     8985 bytes  mod/Arsenal III/rez/stat_w2.tbl
+369. 2019-04-09 00:53:37 -0500     8632 bytes  scloader2b.txt
+288. 2019-04-09 00:53:37 -0500     8084 bytes  mod/datedit/Data/FAQ.txt
+269. 2019-04-09 00:53:37 -0500     8066 bytes  mod/Arsenal III/rez/sprites.tbl
+306. 2019-04-09 00:53:37 -0500     8060 bytes  mod/datedit/Data/Sprites.txt
+294. 2019-04-09 00:53:37 -0500     7080 bytes  mod/datedit/Data/IscriptIDList.txt
+356. 2019-04-09 00:53:37 -0500     7073 bytes  mod/wmode.txt
+292. 2019-04-09 00:53:37 -0500     6888 bytes  mod/datedit/Data/Icons.txt
+267. 2019-04-09 00:53:37 -0500     6813 bytes  mod/Arsenal III/rez/portdata.tbl
+346. 2019-04-09 00:53:37 -0500     6751 bytes  mod/tutorial.txt
+299. 2019-04-09 00:53:37 -0500     6566 bytes  mod/datedit/Data/Portdata.txt
+295. 2019-04-09 00:53:37 -0500     6094 bytes  mod/datedit/Data/Labels.txt
+272. 2019-04-09 00:53:37 -0500     5948 bytes  mod/Arsenal III/rez/unitdata.dat
+273. 2019-04-09 00:53:37 -0500     5694 bytes  mod/Arsenal III/rez/unitdato.dat
+331. 2019-04-09 00:53:37 -0500     5460 bytes  mod/datedit/Default/weapons.dat
+263. 2019-04-09 00:53:37 -0500     5460 bytes  mod/Arsenal III/arr/weapons.dat
+343. 2019-04-09 00:53:37 -0500     5052 bytes  mod/datedit/Readme.txt
+309. 2019-04-09 00:53:37 -0500     4663 bytes  mod/datedit/Data/Units.txt
+321. 2019-04-09 00:53:37 -0500     4158 bytes  mod/datedit/Default/orders.dat
+256. 2019-04-09 00:53:37 -0500     4158 bytes  mod/Arsenal III/arr/orders.dat
+297. 2019-04-09 00:53:37 -0500     3982 bytes  mod/datedit/Data/Orders.txt
+27.  2019-04-09 00:53:37 -0500     3483 bytes  StarEdit.cnt
+340. 2019-04-09 00:53:37 -0500     3457 bytes  mod/datedit/Formats/units.def
+250. 2019-04-09 00:53:37 -0500     3408 bytes  mod/Arsenal III/INSTALL.LOG
+323. 2019-04-09 00:53:37 -0500     3319 bytes  mod/datedit/Default/portdata.tbl
+289. 2019-04-09 00:53:37 -0500     3281 bytes  mod/datedit/Data/Flingy.txt
+326. 2019-04-09 00:53:37 -0500     3229 bytes  mod/datedit/Default/sprites.dat
+259. 2019-04-09 00:53:37 -0500     3229 bytes  mod/Arsenal III/arr/sprites.dat
+311. 2019-04-09 00:53:37 -0500     3159 bytes  mod/datedit/Data/Weapons.txt
+316. 2019-04-09 00:53:37 -0500     3135 bytes  mod/datedit/Default/flingy.dat
+253. 2019-04-09 00:53:37 -0500     3135 bytes  mod/Arsenal III/arr/flingy.dat
+264. 2019-04-09 00:53:37 -0500     2965 bytes  mod/Arsenal III/rez/flingy.tbl
+275. 2019-04-09 00:53:37 -0500     2933 bytes  mod/Arsenal III/rez/w2Icons.tbl
+277. 2019-04-09 00:53:37 -0500     2680 bytes  mod/Arsenal III/tileed.txt
+298. 2019-04-09 00:53:37 -0500     1920 bytes  mod/datedit/Data/Origins.txt
+320. 2019-04-09 00:53:37 -0500     1775 bytes  mod/datedit/Default/mapdata.tbl
+322. 2019-04-09 00:53:37 -0500     1320 bytes  mod/datedit/Default/portdata.dat
+257. 2019-04-09 00:53:37 -0500     1320 bytes  mod/Arsenal III/arr/portdata.dat
+330. 2019-04-09 00:53:37 -0500     1281 bytes  mod/datedit/Default/upgrades.dat
+262. 2019-04-09 00:53:37 -0500     1281 bytes  mod/Arsenal III/arr/upgrades.dat
+310. 2019-04-09 00:53:37 -0500     1269 bytes  mod/datedit/Data/Upgrades.txt
+14.  2019-04-09 00:53:37 -0500     1268 bytes  Readme.cnt
+352. 2019-04-09 00:53:37 -0500     1142 bytes  mod/winmpq/WMpqEmbed.rtf
+342. 2019-04-09 00:53:37 -0500      948 bytes  mod/datedit/Formats/weapons.def
+281. 2019-04-09 00:53:37 -0500      859 bytes  mod/datedit/DatEdit.ini
+266. 2019-04-09 00:53:37 -0500      854 bytes  mod/Arsenal III/rez/mapdata.tbl
+328. 2019-04-09 00:53:37 -0500      836 bytes  mod/datedit/Default/techdata.dat
+260. 2019-04-09 00:53:37 -0500      836 bytes  mod/Arsenal III/arr/techdata.dat
+296. 2019-04-09 00:53:37 -0500      785 bytes  mod/datedit/Data/Mapdata.txt
+274. 2019-04-09 00:53:37 -0500      780 bytes  mod/Arsenal III/rez/upgrades.dat
+314. 2019-04-09 00:53:37 -0500      768 bytes  mod/datedit/Default/Units.pal
+313. 2019-04-09 00:53:37 -0500      768 bytes  mod/datedit/Default/Terrain.pal
+312. 2019-04-09 00:53:37 -0500      768 bytes  mod/datedit/Default/IconPal.pal
+276. 2019-04-09 00:53:37 -0500      763 bytes  mod/Arsenal III/rez/w2ugrd.tbl
+2.   2019-04-09 00:53:37 -0500      762 bytes  Arsenal3.lnk
+8.   2019-04-09 00:53:37 -0500      725 bytes  DatEdit.lnk
+31.  2019-04-09 00:53:37 -0500      691 bytes  WinMPQ.lnk
+3.   2019-04-09 00:53:37 -0500      672 bytes  BnetLog.txt
+335. 2019-04-09 00:53:37 -0500      640 bytes  mod/datedit/Formats/orders.def
+307. 2019-04-09 00:53:37 -0500      616 bytes  mod/datedit/Data/Techdata.txt
+371. 2019-04-09 00:53:37 -0500      580 bytes  starcraft window units c.lnk
+333. 2019-04-09 00:53:37 -0500      534 bytes  mod/datedit/Formats/images.def
+282. 2019-04-09 00:53:37 -0500      479 bytes  mod/datedit/Data/Animations.txt
+341. 2019-04-09 00:53:37 -0500      462 bytes  mod/datedit/Formats/upgrades.def
+339. 2019-04-09 00:53:37 -0500      355 bytes  mod/datedit/Formats/techdata.def
+303. 2019-04-09 00:53:37 -0500      316 bytes  mod/datedit/Data/SelCircleSize.txt
+287. 2019-04-09 00:53:37 -0500      311 bytes  mod/datedit/Data/Explosions.txt
+338. 2019-04-09 00:53:37 -0500      303 bytes  mod/datedit/Formats/sprites.def
+285. 2019-04-09 00:53:37 -0500      295 bytes  mod/datedit/Data/DrawList.txt
+332. 2019-04-09 00:53:37 -0500      275 bytes  mod/datedit/Formats/flingy.def
+319. 2019-04-09 00:53:37 -0500      260 bytes  mod/datedit/Default/mapdata.dat
+255. 2019-04-09 00:53:37 -0500      260 bytes  mod/Arsenal III/arr/mapdata.dat
+337. 2019-04-09 00:53:37 -0500      216 bytes  mod/datedit/Formats/sfxdata.def
+286. 2019-04-09 00:53:37 -0500      206 bytes  mod/datedit/Data/ElevationLevels.txt
+35.  2019-04-09 00:53:37 -0500      189 bytes  bnupdate.log
+283. 2019-04-09 00:53:37 -0500      183 bytes  mod/datedit/Data/Behaviours.txt
+336. 2019-04-09 00:53:37 -0500      161 bytes  mod/datedit/Formats/portdata.def
+302. 2019-04-09 00:53:37 -0500      159 bytes  mod/datedit/Data/Rightclick.txt
+301. 2019-04-09 00:53:37 -0500      147 bytes  mod/datedit/Data/Remapping.txt
+1.   2019-04-09 00:59:19 -0500      117 bytes  .gitignore
+373. 2019-04-09 00:53:37 -0500      102 bytes  wmode.ini
+355. 2019-04-09 00:53:37 -0500      101 bytes  mod/wmode.ini
+334. 2019-04-09 00:53:37 -0500       98 bytes  mod/datedit/Formats/mapdata.def
+7.   2019-04-09 00:53:37 -0500       66 bytes  BwarInst.log
+30.  2019-04-09 00:53:37 -0500       66 bytes  StarInst.log
+290. 2019-04-09 00:53:37 -0500       65 bytes  mod/datedit/Data/FlingyControl.txt
+36.  2019-04-09 00:53:37 -0500       57 bytes  characters/blakrain.spc
+284. 2019-04-09 00:53:37 -0500       56 bytes  mod/datedit/Data/DamTypes.txt
+252. 2019-04-09 00:53:37 -0500       46 bytes  mod/Arsenal III/UNWISE.INI
+308. 2019-04-09 00:53:37 -0500       33 bytes  mod/datedit/Data/UnitSize.txt
+305. 2019-04-09 00:53:37 -0500       26 bytes  mod/datedit/Data/ShieldSize.txt
+300. 2019-04-09 00:53:37 -0500       26 bytes  mod/datedit/Data/Races.txt
+11.  2019-04-09 00:53:37 -0500       23 bytes  License.txt
